@@ -8,14 +8,14 @@ nav {
 
   > h1 {
     text-transform: uppercase;
-    color: $primary;
+    color: $tertiary;
   }
   > div {
     display: flex;
     align-items: center;
 
     > a {
-      color: $primary;
+      color: $tertiary;
       font-size: 1.2rem;
       margin: 0 1rem;
       transition: all 0.3s;
