@@ -1,9 +1,8 @@
+
+
+
 I've developed a straightforward shopping cart project to expand my understanding of Redux.
 Project Link-->
-
-
-
-
 
 
 
