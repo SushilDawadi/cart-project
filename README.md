@@ -1,3 +1,13 @@
+I've developed a straightforward shopping cart project to expand my understanding of Redux.
+Project Link-->
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
