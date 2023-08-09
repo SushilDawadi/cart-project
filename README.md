@@ -2,7 +2,8 @@
 
 
 I've developed a straightforward shopping cart project to expand my understanding of Redux.
-Project Link-->
+
+Project Link-->https://cart-project-seven.vercel.app
 
 
 
