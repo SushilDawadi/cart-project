@@ -16,7 +16,7 @@ const CartItem = ({
       <img src={imgSrc} alt="" />
       <article>
         <h3>{name}</h3>
-        <p>{price}</p>
+        <p>NPR {price}</p>
       </article>
       <div>
         <button onClick={() => decrement(id)}>-</button>
